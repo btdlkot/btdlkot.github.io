@@ -1,0 +1,50 @@
+.carousel-item {
+  height: 600px;
+}
+
+.carousel-item img {
+  height: 600px;
+}
+.container a{
+  text-decoration: none;
+}
+
+nav {
+  background-color: #003366;
+}
+.footer a {
+  text-decoration: none;
+}
+.imgmystyle {
+width: 200px;
+height: 200px;
+}
+body p{
+  color: black;
+  text-align:center;
+  font-size: 28px;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+  width: 50%;
+  border-spacing: 70px 110px;
+  border: 4px double #333; /* Рамка вокруг таблицы */
+
+}
+
+td {
+  text-align: center;
+  color:white;
+  background-color: #003366;
+  padding: 5px;
+}
+
+form {
+  margin: auto;
+}
