@@ -1,7 +1,7 @@
 .carousel-item {
   height: 600px;
 }
-
+/* Селектори класу */
 .carousel-item img {
   height: 600px;
 }
@@ -28,7 +28,7 @@ body p{
 table, td, th {
   border: 1px solid black;
 }
-
+/* Селектори тегу */
 table {
   margin: auto;
   border-collapse: collapse;
@@ -47,4 +47,20 @@ td {
 
 form {
   margin: auto;
+}
+
+li{
+  color: #0a53be;
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+}
+
+b + i {
+  color: red; /* Красный цвет текста */
+}
+
+td > a {
+  font-size: 130%; /* Размер шрифта */
+  color: black;
 }
